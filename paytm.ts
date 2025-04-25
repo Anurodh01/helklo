@@ -7,3 +7,4 @@
 "Paytm updated bank features added"
 
 'paytm bank data loaded'
+'paytm upi image added'
