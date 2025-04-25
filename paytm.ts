@@ -5,3 +5,5 @@
 
 
 "Paytm updated bank features added"
+
+'paytm upi image added'

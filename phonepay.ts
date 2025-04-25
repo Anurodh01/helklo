@@ -4,3 +4,5 @@
 
 
 "phonepay bank account link feature added"
+
+'phonepay upi image added'
