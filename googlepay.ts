@@ -7,4 +7,5 @@
 "google pay has added cashback feature for payment on fuels"
 
 'google pay bank data loaded'
+'google pay Upi image added'
 
