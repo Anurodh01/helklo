@@ -9,3 +9,4 @@
 'google pay bank data loaded'
 'google pay Upi image added'
 
+Updated
